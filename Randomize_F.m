@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 %% Randomizing more than two conditions Experiment F
 try
     Screen('Preference','SkipSyncTests',1);
